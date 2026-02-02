@@ -1,16 +1,56 @@
-## Bienvenido a mi repositorio personal 👋
+## 👋 Hola, soy Manuel
 
-<!--
-**almaranteManuel/almaranteManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador con foco en **desarrollo web fullstack** y **soluciones prácticas con tecnología**.  
+Este espacio funciona como índice de mis proyectos, tanto académicos como personales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Universidad
+Proyectos realizados en el contexto académico.  
+Incluyen trabajos prácticos, simulaciones y pruebas de concepto.
+
+- 📘 **Sistemas Operativos** — simulaciones y ejercicios de bajo nivel  
+  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+
+- 📗 **Algoritmos y Estructuras de Datos** — implementación y análisis  
+  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+
+- 📙 **Redes / Arquitectura / Otros**  
+  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+
+> 📌 *Estos repos priorizan el aprendizaje y la comprensión técnica.*
+
+---
+
+## 🚀 Proyectos Personales
+Proyectos desarrollados por iniciativa propia, enfocados en producto, diseño y automatización.
+
+- 🔥 **Portfolio Web** — sitio personal y presentación profesional  
+  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+
+- 🤖 **Experimentos con IA / Automatización**  
+  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+
+- 🛠️ **Herramientas y scripts**  
+  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+
+> 📌 *Acá aplico lo aprendido y exploro ideas propias.*
+
+---
+
+## 🧰 Tecnologías
+Algunas de las tecnologías y herramientas que utilizo:
+
+- **Frontend:** HTML, CSS, JavaScript, Astro, React  
+- **Backend:** Node.js, APIs REST  
+- **Otros:** Git, Linux, scripting, automatización
+
+---
+
+## 📫 Contacto
+- GitHub: https://github.com/almaranteManuel
+- (opcional) Portfolio / LinkedIn / Mail
+
+---
+
+_Gracias por pasar 👋_
