@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Manuel Almarante
 
-Soy desarrollador con foco en **desarrollo fullstack** y **soluciones prácticas con tecnología**.  
+Soy programador con foco en **Desarrollo FullStack** y **soluciones prácticas con tecnología**.  
 Este espacio funciona como índice de mis proyectos, tanto académicos como personales.
 
 ---
@@ -22,7 +22,7 @@ Incluyen trabajos prácticos, simulaciones y pruebas de concepto.
 
 ---
 
-## 🚀 Proyectos Freelance
+## 🚀 Proyectos Freelance y Personales
 Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y automatización.
 
 - 🤖 **ERP / Automatización para Ferretería**  
@@ -42,7 +42,7 @@ Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y auto
 Algunas de las tecnologías y herramientas que utilizo:
 
 - **Frontend:** HTML, CSS, JavaScript, Astro, React  
-- **Backend:** Node.js, APIs REST  
+- **Backend:** Node.js, APIs REST, Laravel, Rust.
 - **Otros:** Git, Linux, scripting, automatización
 
 ---
