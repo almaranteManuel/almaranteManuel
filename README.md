@@ -1,6 +1,6 @@
-## 👋 Hola, soy Manuel
+## 👋 Hola, soy Manuel Almarante
 
-Soy desarrollador con foco en **desarrollo web fullstack** y **soluciones prácticas con tecnología**.  
+Soy desarrollador con foco en **desarrollo fullstack** y **soluciones prácticas con tecnología**.  
 Este espacio funciona como índice de mis proyectos, tanto académicos como personales.
 
 ---
@@ -49,7 +49,8 @@ Algunas de las tecnologías y herramientas que utilizo:
 
 ## 📫 Contacto
 - GitHub: https://github.com/almaranteManuel
-- (opcional) Portfolio / LinkedIn / Mail
+- https://www.linkedin.com/in/almarantemanuel/
+- almarante.manu@gmail.com
 
 ---
 
