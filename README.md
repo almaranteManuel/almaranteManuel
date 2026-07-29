@@ -22,11 +22,11 @@ Incluyen trabajos prácticos, simulaciones y pruebas de concepto.
 
 ---
 
-## 🚀 Proyectos Personales
-Proyectos desarrollados por iniciativa propia, enfocados en producto, diseño y automatización.
+## 🚀 Proyectos Freelance
+Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y automatización.
 
-- 🔥 **Portfolio Web** — sitio personal y presentación profesional  
-  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
+- 🔥 **ERP para Ferretería** — Aplicacion desktop
+  👉 https://github.com/almaranteManuel/ferreteria-cachito
 
 - 🤖 **Experimentos con IA / Automatización**  
   👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
