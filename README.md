@@ -26,7 +26,6 @@ Incluyen trabajos prácticos, simulaciones y pruebas de concepto.
 Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y automatización.
 
 - 🔥 **ERP para Ferretería** — Aplicacion desktop
-  
   👉 https://github.com/almaranteManuel/ferreteria-cachito
 
 - 🤖 **Experimentos con IA / Automatización**  
