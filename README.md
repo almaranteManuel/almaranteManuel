@@ -25,7 +25,7 @@ Incluyen trabajos prácticos, simulaciones y pruebas de concepto.
 ## 🚀 Proyectos Freelance
 Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y automatización.
 
-- 🔥 **ERP para Ferretería** — Aplicacion desktop
+- 🤖 **ERP / Automatización para Ferretería**  
   👉 https://github.com/almaranteManuel/ferreteria-cachito
 
 - 🤖 **Experimentos con IA / Automatización**  
