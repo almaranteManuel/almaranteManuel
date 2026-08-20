@@ -10,13 +10,10 @@ Proyectos realizados en el contexto académico.
 Incluyen trabajos prácticos, simulaciones y pruebas de concepto.
 
 - 📘 **Sistemas Operativos** — simulaciones y ejercicios de bajo nivel  
-  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
-
+  
 - 📗 **Algoritmos y Estructuras de Datos** — implementación y análisis  
-  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
 
 - 📙 **Redes / Arquitectura / Otros**  
-  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
 
 > 📌 *Estos repos priorizan el aprendizaje y la comprensión técnica.*
 
@@ -27,12 +24,6 @@ Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y auto
 
 - 🤖 **ERP / Automatización para Ferretería**  
   👉 https://github.com/almaranteManuel/ferreteria-cachito
-
-- 🤖 **Experimentos con IA / Automatización**  
-  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
-
-- 🛠️ **Herramientas y scripts**  
-  👉 https://github.com/almaranteManuel/NOMBRE-DEL-REPO
 
 > 📌 *Acá aplico lo aprendido y exploro ideas propias.*
 
