@@ -24,6 +24,8 @@ Proyectos desarrollados por cuenta propia, enfocados en producto, diseño y auto
 
 - 🤖 **ERP / Automatización para Ferretería**  
   👉 https://github.com/almaranteManuel/ferreteria-cachito
+- 🤖 **IA / Adapta tu CV a la oferta con IA**  
+  👉 https://github.com/almaranteManuel/curriculum-vitAI
 
 > 📌 *Acá aplico lo aprendido y exploro ideas propias.*
 
